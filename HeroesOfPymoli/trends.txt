@@ -1,0 +1,14 @@
+Observable trends within the data;
+    1) Although males are a majority of the player base, other genders (female and other/non-disclosed)
+        will spend more on the game per total purchase. On average, they spend $0.515 more on average 
+        total purchase.
+    2) While the majority of the player base exists in the age range of 20-24 years old,
+        players in the <10, and 35-39 age ranges will pay more on average total purchase,
+        as well as have a higher average purchase price.
+    3) Price doesn't serve as a deterrent when it comes to items; the most profitable, and most popular
+        items were above the $4 point. Something that could be useful in the future would be to set
+        price points as bins, and analyze the items through that lens. At a quick glance, the items
+        that were in the $3.50+ range were the most successful.
+    4) The general demographic of this player base are males that are within the 15-29 year range. On average,
+        players will spend roughly $3 on an average purchase. Lastly, items above $4 were the most popular and
+        most lucrative, however there isn't sufficient data to conclude why.
